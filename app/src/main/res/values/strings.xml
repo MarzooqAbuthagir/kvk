@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">CRA - Climate Resilient Agriculture</string>
+
+    <string name="progresstitle">Loading... Please Wait</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gps_title">GPS is not Enabled!</string>
+    <string name="gps_msg">Do you want to turn on GPS?</string>
+
+    <string name="nrm_title">Natural Resource Management</string>
+    <string name="nrm_content_line1">It brings together land use planning, water management and bio – diversity conservation.</string>
+    <string name="nrm_content_line2">First step for improving the dryland crop yields is the conservation of rainwater. A soil
+and water conservation measure varies with the soil type and agro-climatic location and their
+effectiveness cannot be generalized. But if available rainwater harvested, maximum extent the
+ground water could be recharged and improved the crop status.</string>
+
+
+    <string name="rain_title">A. Rainwater Harvesting Structures</string>
+    <string name="rain_content_line1">Rainwater harvested can be used for recharging groundwater through suitable structures
+like recharge trenches (Check dam), recharge pits (Community pond &amp;Farm pond), bore wells
+and open wells. Harvested water used for supplementary irrigation of 5-7 cm during the period of
+moisture stress at critical growth stages of yield gain in number of dryland crops.</string>
+    <string name="rain_sub_title1">Community Pond</string>
+    <string name="rain_subcontent_line1">Structures in the community land commonly used to store rainwater. Community pond
+collects excess runoff water during monsoon season and recharge borewells and open wells. So
+the available community ponds should be renovated and keep ready to capture excess run off
+water. If no community pond is available new ponds should be constructed. A 301ft Length ×180
+ft Breadth ×15 ft Depth sized pond can capture 22,999 Cu.m of rainwater.</string>
+    <string name="rain_sub_title2">Farm pond</string>
+    <string name="rain_subcontent_line2">Farm ponds can be created at the farmers’ fields used to collect the rainwater in water
+harvesting structures during monsoon season. A (20 ft × 20 ft × 5 ft) sized pond can capture 55
+cum rainwater in their field, that assist to recharge their open wells and bore wells. Water
+retention was seen from September to November months normally.</string>
+    <string name="rain_sub_title3">Check Dam</string>
+    <string name="rain_subcontent_line3">Prevent overflow during rainy season which increases the recharge of ground water level.</string>
+
+
+    <string name="insitu_title">B. Insitu moisture conservation</string>
+    <string name="insitu_content_line1">Off season land treatments such as summer ploughing, compartmental bunding,
+cultivation across the slope, conservation furrow, mulching, ridges &amp;furrows and micro
+catchments are the practices increase the moisture status of the fields.</string>
+    <string name="insitu_sub_title1">Summer ploughing</string>
+    <string name="insitu_subcontent_line1">Summer ploughing is the operation done during the summer months. Breaking of hard
+crusted upper layer of the soil and deep ploughing. Tillage improves the soil aeration, increases
+the infiltration capacity, permeability of the soil and kills the weeds, insect &amp; disease causing
+organisms. Cultivation across the slope helps to retaining 10% more rainwater.</string>
+    <string name="insitu_sub_title2">Compartmental bunding</string>
+    <string name="insitu_subcontent_point1">\u2022 Small compartments act as a dam and store the rainfall received in the
+compartments for longer period</string>
+    <string name="insitu_subcontent_point2">\u2022 Suitable for lesser rainfall areas for effective moisture conservation practices</string>
+    <string name="insitu_subcontent_point3">\u2022 It retains about 37% additional soil moisture</string>
+    <string name="insitu_subcontent_point4">\u2022 Increases the water holding capacity of the soil</string>
+    <string name="insitu_subcontent_point5">\u2022 20 % higher grain yield</string>
+    <string name="insitu_subcontent_point6">\u2022 Crops did not show any moisture stress / withered condition for 25 days dry spells</string>
+    <string name="insitu_sub_title3">Soil health management practice and soil test based fertilizer application</string>
+    <string name="insitu_sub_title4">Green Manuring - Multigrain Incorporation</string>
+    <string name="insitu_subcontent_line2">To improve the fertility status of the soil as well as to overcome the shortage of organic
+manures, multigrain green manuring promoted and demonstrated at namakkal from 2016 to till
+date. Multigrain green mnuring contains mixture of seed as follows.</string>
+    <string name="insitu_subcontent_line3"><b>Cereal crops:</b> Rice, Maize, peralmillet, Tenai, Varagu, samai, Kuthiraivali and sorghum</string>
+    <string name="insitu_subcontent_line4"><b>Pulse crops:</b> Greengram, blackgram, Horse gram, Red gram, Cowpea and Moth bean</string>
+    <string name="insitu_subcontent_line5"><b>Oil seeds:</b> Groundnut, Sesamum, castor and Sunflower</string>
+    <string name="insitu_subcontent_line6"><b>Spice crops:</b> Coriander, Cumin and Mustard.</string>
+    <string name="insitu_subcontent_line7"><b>Green manures:</b> Sunhemp, Danita, Agathi, Calotropics, Neem and Kolinchi</string>
+    <string name="insitu_subcontent_point7">\u27A3 Take 20 gm of small size seeds</string>
+    <string name="insitu_subcontent_point8">\u27A3 1 -2 kg for medium size seeds</string>
+    <string name="insitu_subcontent_point9">\u27A3 2 – 3 kg for big size seeds</string>
+    <string name="insitu_subcontent_line8">By improved practising the above practise within 3 years, increase in Organic carbon was
+increased 0.05%, available N was 28 kg and Zinc was 0.09 mg/kg.</string>
+
+
+    <string name="micro_title">C. Micro irrigation</string>
+    <string name="micro_content_line1">To minimize the potential use of water and increases the area of cultivation for all crops.
+Micro irrigation systems are drip irrigation, Sprinkler, Raingun and laser spray micro irrigation.</string>
+
+
+    <string name="manual_title">D. Manual Weather Station</string>
+    <string name="manual_content_line1">A weather station is a facility on land with instruments and equipments for measuring
+atmospheric conditions to provide information for weather forecasts on weather and climate. The
+measurements taken include temperature, rain gauge, humidity, wind speed and wind direction.</string>
+    <string name="manual_content_point1">\u2022 Thermometer for measuring air temperature</string>
+    <string name="manual_content_point2">\u2022 Rain gauge for measuring liquid precipitation over a set period of time</string>
+    <string name="manual_content_point3">\u2022 Hydrometer for measuring humidity</string>
+    <string name="manual_content_point4">\u2022 Anemometer for measuring wind speed</string>
+    <string name="manual_content_point5">\u2022 Wind vane for measuring wind blowing direction</string>
+</resources>

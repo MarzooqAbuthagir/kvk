@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_app"
+            android:icon="@drawable/about_app"
+            android:title="About APP" />
+        <item
+            android:id="@+id/nav_about_kvk"
+            android:icon="@drawable/about_kvk"
+            android:title="About KVK" />
+        <item
+            android:id="@+id/nav_nicra"
+            android:icon="@drawable/nicra"
+            android:title="CRA" />
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/weather"
+            android:title="Weather Forecast" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/location_menu_icon"
+            android:title="Location" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="Share" />
+    </group>
+
+</menu>

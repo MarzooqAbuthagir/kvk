@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1f802f</color>
+    <color name="colorPrimaryDark">#167926</color>
+    <color name="colorAccent">#1f802f</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="lightgray">#e5e4e2</color>
+    <color name="weather_bg">#c8dfcb</color>
+    <color name="divdier">#6eac79</color>
+    <color name="light_Bg">#272727</color>
+    <color name="nav_text">#616161</color>
+    <color name="list_divider">#D3D3D3</color>
+    <color name="weather_divider">#6eac79</color>
+    <color name="red">#ff0000</color>
+</resources>
