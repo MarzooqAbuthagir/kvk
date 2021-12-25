@@ -13,6 +13,12 @@ public class Utilis {
     // Custom Progress Dialog
     public static ProgressDialog mProgressDialog;
 
+    public static String Api = "https://kvknamakkal.com/";
+
+    public static String appversion = "version.php";
+
+    public static String shareUrl = "https://kvknamakkal.com/app/update.php";
+
     public Utilis(Context con) {
         Utilis.con = con;
     }
